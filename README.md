@@ -3,6 +3,7 @@
 
 - 🌱 I’m currently learning more about **Python for AI.**
 - 📫 How to reach me: **dwayne.at.16@gmail.com**
+- 🎨I also work on <strong>digital illustration</strong>! Find me on <a href="https://www.twitter.com/dwaynekoya" target="blank">Twitter</a>
 
 <p align="left">Connect with me
 <a href="https://linkedin.com/in/dwayne-arroba-talaverano-0759542a0" target="blank"><img align="center"/>on Linkedin</a>
@@ -21,4 +22,4 @@
 <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"> <img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white"> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
 <img src="https://pbs.twimg.com/media/GVmvHQNXYAACGGD?format=jpg&name=large">
-I do <strong>digital illustration</strong> too! Find me on <a href="https://www.twitter.com/dwaynekoya" target="blank">Twitter</a>
+
