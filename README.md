@@ -3,11 +3,9 @@
 
 - 🌱 I’m currently learning more about **Python for AI.**
 - 📫 How to reach me: **dwayne.at.16@gmail.com**
-- 🎨I also work on <strong>digital illustration</strong>! Find me on <a href="https://www.twitter.com/dwaynekoya" target="blank">Twitter</a>
+- 👥 Connect with me on <a href="https://linkedin.com/in/dwayne-arroba-talaverano-0759542a0" target="blank"><img align="center"/>Linkedin</a>
+- 🎨 I also work on <strong>digital illustration</strong>! Find me on <a href="https://www.twitter.com/dwaynekoya" target="blank">Twitter</a>
 
-<p align="left">Connect with me
-<a href="https://linkedin.com/in/dwayne-arroba-talaverano-0759542a0" target="blank"><img align="center"/>on Linkedin</a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
